@@ -1,0 +1,85 @@
+{
+  "knowledge_base": {
+    "ar": [
+      {
+        "question": "كيف أرسل فيديو الذبيحة؟",
+        "answer": "يمكنك رفع الفيديو عبر صفحة الإرسال في الموقع. تأكد من أن الفيديو يظهر الذبيحة بوضوح ويحتوي على اسم المتبرع.",
+        "category": "submission"
+      },
+      {
+        "question": "كم من الوقت يستغرق التحقق من الفيديو؟",
+        "answer": "عادة ما يستغرق التحقق من 24 إلى 48 ساعة حسب جودة الفيديو وحمل النظام.",
+        "category": "timing"
+      },
+      {
+        "question": "كيف أعرف حالة فيديو الذبيحة الخاص بي؟",
+        "answer": "يمكنك التحقق من حالة الفيديو عبر صفحة المستخدم الخاص بك باستخدام معرف المستخدم الخاص بك.",
+        "category": "status"
+      },
+      {
+        "question": "ماذا أفعل إذا تم رفض الفيديو؟",
+        "answer": "ستتلقى إشعارًا يوضح سبب الرفض. يمكنك إعادة رفع فيديو جديد بعد تصحيح المشكلة.",
+        "category": "issues"
+      },
+      {
+        "question": "هل يمكنني رفع أكثر من فيديو واحد؟",
+        "answer": "نعم, يمكنك رفع فيديوهات متعددة, ولكن كل فيديو يحتاج إلى التحقق بشكل منفصل.",
+        "category": "submission"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Comment soumettre une vidéo de sacrifice ?",
+        "answer": "Vous pouvez télécharger la vidéo via la page de soumission sur le site. Assurez-vous que la vidéo montre clairement le sacrifice et inclut le nom du donateur.",
+        "category": "submission"
+      },
+      {
+        "question": "Combien de temps prend la validation de la vidéo ?",
+        "answer": "La validation prend généralement 24 à 48 heures selon la qualité de la vidéo et la charge du système.",
+        "category": "timing"
+      },
+      {
+        "question": "Comment vérifier l'état de ma vidéo ?",
+        "answer": "Vous pouvez vérifier l'état de la vidéo via votre page utilisateur en utilisant votre identifiant.",
+        "category": "status"
+      },
+      {
+        "question": "Que faire si ma vidéo est rejetée ?",
+        "answer": "Vous recevrez une notification expliquant la raison du rejet. Vous pouvez soumettre une nouvelle vidéo après correction.",
+        "category": "issues"
+      },
+      {
+        "question": "Puis-je soumettre plusieurs vidéos ?",
+        "answer": "Oui, vous pouvez soumettre plusieurs vidéos, mais chaque vidéo sera validée séparément.",
+        "category": "submission"
+      }
+    ],
+    "en": [
+      {
+        "question": "How do I submit a sacrifice video?",
+        "answer": "You can upload the video through the submission page on the website. Ensure the video clearly shows the sacrifice and includes the donor's name.",
+        "category": "submission"
+      },
+      {
+        "question": "How long does video validation take?",
+        "answer": "Validation typically takes 24 to 48 hours depending on video quality and system load.",
+        "category": "timing"
+      },
+      {
+        "question": "How can I check the status of my video?",
+        "answer": "You can check the video status on your user page using your user ID.",
+        "category": "status"
+      },
+      {
+        "question": "What should I do if my video is rejected?",
+        "answer": "You will receive a notification explaining the rejection reason. You can resubmit a new video after addressing the issue.",
+        "category": "issues"
+      },
+      {
+        "question": "Can I submit multiple videos?",
+        "answer": "Yes, you can submit multiple videos, but each will be validated separately.",
+        "category": "submission"
+      }
+    ]
+  }
+}
