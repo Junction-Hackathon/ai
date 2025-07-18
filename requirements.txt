@@ -13,5 +13,5 @@ ultralytics
 opencv-python
 faster-whisper 
 ffmpeg-python
-
+cloudinary
 

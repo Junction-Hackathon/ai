@@ -4,7 +4,7 @@ import os
 
 def blur(video_path):
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    input_path = os.path.join(script_dir, video_path)
+    input_path = video_path
     output_path = os.path.join(script_dir, 'blurred_video.mp4')
 
     cap = cv2.VideoCapture(input_path)
@@ -21,8 +21,6 @@ def blur(video_path):
 
     fourcc = cv2.VideoWriter_fourcc(*'mp4v') 
     out = cv2.VideoWriter(output_path, fourcc, fps, (width, height))
-
-    print("processing video...")
 
     while True:
         ret, frame = cap.read()
@@ -52,7 +50,4 @@ def blur(video_path):
     out.release()
     cv2.destroyAllWindows()
 
-    print(f"output saved successfully to: {output_path}")
-
-
-blur("slaughter.mp4")
+    return output_path
