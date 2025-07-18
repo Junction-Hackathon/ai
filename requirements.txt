@@ -14,4 +14,4 @@ opencv-python
 faster-whisper 
 ffmpeg-python
 cloudinary
-
+aiokafka
