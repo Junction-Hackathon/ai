@@ -4,7 +4,7 @@ import json
 import os
 
 KAFKA_BOOTSTRAP_SERVERS = os.getenv("KAFKA_SERVERS")
-TOPIC = "video.process.start"
+TOPIC = "video.start.process"
 
 class KafkaProducerService:
     def __init__(self):
