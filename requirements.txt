@@ -15,3 +15,4 @@ faster-whisper
 ffmpeg-python
 cloudinary
 aiokafka
+asyncio
