@@ -12,15 +12,15 @@ app.include_router(router)
 app.include_router(video_process_router)
 
 
-@app.on_event("startup")
-async def startup():
-    await kafka_producer_service.start()
-    await start_consumer()
+# @app.on_event("startup")
+# async def startup():
+#     await kafka_producer_service.start()
+#     await start_consumer()
 
-@app.on_event("shutdown")
-async def shutdown():
-    await kafka_producer_service.stop()
-    await start_consumer()
+# @app.on_event("shutdown")
+# async def shutdown():
+#     await kafka_producer_service.stop()
+#     await start_consumer()
 
 
 
