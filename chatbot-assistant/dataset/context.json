@@ -25,6 +25,91 @@
         "question": "هل يمكنني رفع أكثر من فيديو واحد؟",
         "answer": "نعم, يمكنك رفع فيديوهات متعددة, ولكن كل فيديو يحتاج إلى التحقق بشكل منفصل.",
         "category": "submission"
+      },
+      {
+        "question": "ما هي مؤسسة الإنسان الجزائري الخيرية؟",
+        "answer": "مؤسسة الإنسان الجزائري مؤسسة خيرية غير ربحية مختصة في العمل الإغاثي والتعليمي، تم اختيار هذا الاسم حتى نُظهر المعدن الحقيقي للشعب الجزائري في مدّ يد العون لإخوانه المحتاجين، وكذلك لرسم صورة حسنة في أذهان الشعوب الأخرى عن الجزائر وأهلها.",
+        "category": "about"
+      },
+      {
+        "question": "ما هي مشاريع المؤسسة في الجزائر؟",
+        "answer": "تشمل مشاريعنا في الجزائر: مشروع العائلات المتعففة، المشروع الطبي، كفالة طالب علم، مشروع ابتسامة حافظ، بزكاتك يبتسم، مشروع الغارمين، ومشروع الأجهزة الوقفية.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هو مشروع العائلات المتعففة؟",
+        "answer": "نمد يد العون للعديد من العائلات المتعففة في جميع أنحاء ربوع وطننا من خلال توفير سلة غذائية شهرياً تتوفر على جميع المستلزمات الغذائية والاحتياجات الضرورية. كفالة أسرة بسلة غذائية لمدة شهر تكلف 6000 دج، وكفالة أسرة فيها مريض سرطان لشهر واحد تكلف 20000 دج.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هو المشروع الطبي؟",
+        "answer": "نولي المرضى والمحتاجين خاصة من العائلات المتعففة التي نكفلها عناية خاصة حيث نسعى في توفير العلاج لهم من خلال كفالة الفحص والعلاج الكامل والعمليات الجراحية وكذلك من خلال الخصومات التي يقدمها شركاؤنا من العيادات والأطباء ومراكز التحليل والأشعة.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هو مشروع كفالة طالب علم؟",
+        "answer": "نؤمن إيماناً كاملاً أن صلاح الفرد والمجتمع يبدأ من التعليم ولذلك نولي اهتماماً كبيراً بالطلبة الجامعيين وخاصة المتفوقين، حيث نسعى في كفالتهم كفالة تامة من خلال توفير رواتب شهرية تعينهم في مشوار دراستهم وكذلك نسعى في توفير دروس دعم من خلال شركائنا المتطوعين من الأساتذة والمستشارين التربويين. كفالة طالب علم يدرس في الجامعة مع توفير دورات تدريبية له تكلف 10000 دج.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هو مشروع ابتسامة حافظ؟",
+        "answer": "نسعى من خلاله إلى إدخال السرور على أهل الله وخاصته أهل القرآن حيث نقوم بكفالتهم وتوفير التحفيزات والهدايا لتشجيعهم في مسيرتهم. كفالة تعليم القرآن لفائدة المعلمين المتعففين المجتهدين تكلف 10000 دج.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هو مشروع بزكاتك يبتسم؟",
+        "answer": "نسعى في رسم البسمة من خلال إخراج الزكاة في مصارفها المستحقة كـ دفع مصاريف علاج المرضى والمحتاجين وسداد ديون الأسر المتعففة وكفالة الأرامل والأيتام. كفالة يتيم تكلف 10000 دج.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هو مشروع الغارمين؟",
+        "answer": "تعاني الكثير من الأسر المتعففة من دفع المستحقات المتمثلة في الديون المتراكمة من عدم سداد أقساط المنازل، وتعاني أسر أخرى (الأرامل، المطلقات، الأيتام) من عدم القدرة على دفع إيجار البيوت، ولهذا تسعى مؤسستنا في تفريج كربتهم من خلال تسديد هذه الديون.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هو مشروع الأجهزة الوقفية؟",
+        "answer": "ندرك أهمية الأجهزة والمستلزمات الطبية للمرضى المحتاجين، فنوفر لهم خيارات واسعة مثل السماعات الطبية وأجهزة قياس الضغط وقياس السكري والكراسي المتحركة والكراسي الكهربائية والأَسِرَّة الطبية.. الخ وذلك من خلال شركائنا من موردي الأجهزة الطبية. كفالة طبية لشراء الأجهزة الطبية وشبه الطبية الوقفية تكلف 10000 دج.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "ما هي مشاريع المؤسسة في أفريقيا؟",
+        "answer": "تشمل مشاريعنا في أفريقيا: مشروع سقيا الماء، مشروع المساجد، مشروع الذبائح والإطعامات، المشاريع الموسمية، ومشروع الأضاحي.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "ما هو مشروع سقيا الماء؟",
+        "answer": "ندرك أهمية الماء وما يعانيه إخواننا في أفريقيا بسبب تلوث المياه والجفاف ولذلك نولي أهمية بالغة لحفر الآبار في القرى المعزولة التي تنعدم فيها مصادر المياه الغير ملوثة وبث روح جديدة في تلك القرى لأن الماء هو الحياة. وفقاً لتقرير البنك الأفريقي للتنمية لعام 2023، يعاني واحد من كل ثلاثة أفارقة من ندرة المياه، ويفتقر 411 مليون شخص في أفريقيا إلى خدمات مياه الشرب الأساسية.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "ما هو مشروع المساجد؟",
+        "answer": "نؤمن أن للعبادة دوراً هاماً في رسم حياة الشعوب وتهذيب أخلاقنا ومحافظتها على هويتها ولذلك أطلقنا مشروع المساجد في أفريقيا.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "ما هو مشروع الذبائح والإطعامات؟",
+        "answer": "تمر أفريقيا بموجات وكوارث طبيعية وأزمات اقتصادية كبيرة جعلت الكثير من الشعوب في القرى المعزولة يمرون بمجاعات كبيرة ونسعى من خلال مشاريعنا (الذبائح، العائق، الإطعامات، توزيع أكياس الذرة والأرز) في توفير الطعام لإخواننا ومساندتهم والوقوف معهم في أزماتهم.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "ما هي المشاريع الموسمية؟",
+        "answer": "بسبب الوضع المادي في أفريقيا والأزمات المتتالية من المجاعات وغيرها نسعى في إدخال السرور على إخواننا في المواسم المباركة من خلال مشروع إفطار صائم خاصة وأن كثيراً منهم لا يجدون ما يفطرون عليه وكذلك توزيع الوجبات في شهر رمضان المبارك.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "ما هو مشروع الأضاحي؟",
+        "answer": "نستغل هذه الفرصة المباركة لمشاركة إخواننا الفرحة خاصة في القرى المعزولة في أدغال أفريقيا.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "كيف يمكنني التواصل مع المؤسسة؟",
+        "answer": "يمكنكم التواصل معنا عبر: الهاتف +213 657 71 52 43، +213 770 51 63 62، +213 770 51 50 91، إدارة المؤسسة +213 671 81 37 81. العنوان: حي الدوزي 03، الطابق الثاني، قطعة 308، باب الزوار، دار البيضاء، الجزائر. كما يمكنكم متابعتنا على فيسبوك ويوتيوب.",
+        "category": "contact"
+      },
+      {
+        "question": "كيف يمكنني التبرع؟",
+        "answer": "يمكنكم التبرع من خلال الموقع الإلكتروني للمؤسسة أو الاتصال بنا مباشرة على الأرقام المذكورة لمعرفة طرق التبرع المتاحة.",
+        "category": "donation"
       }
     ],
     "fr": [
@@ -52,6 +137,91 @@
         "question": "Puis-je soumettre plusieurs vidéos ?",
         "answer": "Oui, vous pouvez soumettre plusieurs vidéos, mais chaque vidéo sera validée séparément.",
         "category": "submission"
+      },
+      {
+        "question": "Qu'est-ce que la Fondation Caritative de l'Homme Algérien ?",
+        "answer": "La Fondation de l'Homme Algérien est une institution caritative à but non lucratif spécialisée dans le travail humanitaire et éducatif. Ce nom a été choisi pour montrer la vraie valeur du peuple algérien dans l'aide à ses frères nécessiteux, et aussi pour dessiner une bonne image de l'Algérie et de son peuple dans l'esprit des autres peuples.",
+        "category": "about"
+      },
+      {
+        "question": "Quels sont les projets de la fondation en Algérie ?",
+        "answer": "Nos projets en Algérie incluent : le projet des familles nécessiteuses, le projet médical, le parrainage d'étudiants, le projet sourire du mémorisateur, avec votre zakat ils sourient, le projet des débiteurs, et le projet des équipements médicaux de dotation.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Qu'est-ce que le projet des familles nécessiteuses ?",
+        "answer": "Nous tendons la main à de nombreuses familles nécessiteuses dans tout notre pays en fournissant un panier alimentaire mensuel contenant tous les produits alimentaires et les besoins nécessaires. Le parrainage d'une famille avec un panier alimentaire pour un mois coûte 6000 DA, et le parrainage d'une famille avec un malade du cancer pour un mois coûte 20000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Qu'est-ce que le projet médical ?",
+        "answer": "Nous accordons une attention particulière aux malades et aux nécessiteux, surtout parmi les familles nécessiteuses que nous parrainons, en cherchant à leur fournir un traitement à travers le parrainage d'examens, de traitements complets et d'opérations chirurgicales, ainsi qu'à travers les réductions offertes par nos partenaires cliniques, médecins et centres d'analyses et de radiologie.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Qu'est-ce que le projet de parrainage d'étudiants ?",
+        "answer": "Nous croyons fermement que l'amélioration de l'individu et de la société commence par l'éducation, c'est pourquoi nous accordons une grande attention aux étudiants universitaires, surtout les excellents, en cherchant à les parrainer complètement en fournissant des salaires mensuels pour les aider dans leur parcours d'études et en offrant des cours de soutien à travers nos partenaires bénévoles enseignants et conseillers pédagogiques. Le parrainage d'un étudiant universitaire avec des cours de formation coûte 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Qu'est-ce que le projet sourire du mémorisateur ?",
+        "answer": "Nous cherchons à travers ce projet à apporter la joie aux gens d'Allah et spécialement aux gens du Coran en les parrainant et en fournissant des encouragements et des cadeaux pour les motiver dans leur parcours. Le parrainage de l'enseignement du Coran pour les enseignants nécessiteux assidus coûte 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Qu'est-ce que le projet 'avec votre zakat ils sourient' ?",
+        "answer": "Nous cherchons à dessiner le sourire en distribuant la zakat dans ses bénéficiaires légitimes comme payer les frais de traitement des malades et nécessiteux, rembourser les dettes des familles nécessiteuses et parrainer les veuves et orphelins. Le parrainage d'un orphelin coûte 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Qu'est-ce que le projet des débiteurs ?",
+        "answer": "Beaucoup de familles nécessiteuses souffrent du paiement des dettes accumulées dues au non-remboursement des traites immobilières, et d'autres familles (veuves, divorcées, orphelins) souffrent de l'incapacité à payer le loyer des maisons. C'est pourquoi notre fondation cherche à soulager leur détresse en remboursant ces dettes.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Qu'est-ce que le projet des équipements médicaux de dotation ?",
+        "answer": "Nous reconnaissons l'importance des équipements et fournitures médicales pour les patients nécessiteux, nous leur offrons des options larges comme les appareils auditifs, les tensiomètres, les glucomètres, les fauteuils roulants, les fauteuils électriques, les lits médicaux, etc. à travers nos partenaires fournisseurs d'équipements médicaux. Le parrainage médical pour l'achat d'équipements médicaux et para-médicaux de dotation coûte 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "Quels sont les projets de la fondation en Afrique ?",
+        "answer": "Nos projets en Afrique incluent : le projet d'approvisionnement en eau, le projet des mosquées, le projet des sacrifices et nourritures, les projets saisonniers, et le projet des sacrifices rituels.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "Qu'est-ce que le projet d'approvisionnement en eau ?",
+        "answer": "Nous reconnaissons l'importance de l'eau et ce que souffrent nos frères en Afrique à cause de la pollution de l'eau et de la sécheresse, c'est pourquoi nous accordons une grande importance au forage de puits dans les villages isolés où les sources d'eau non polluées sont inexistantes, insufflant une nouvelle vie dans ces villages car l'eau c'est la vie. Selon le rapport de la Banque Africaine de Développement de 2023, un Africain sur trois souffre de pénurie d'eau, et 411 millions de personnes en Afrique manquent de services d'eau potable de base.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "Qu'est-ce que le projet des mosquées ?",
+        "answer": "Nous croyons que l'adoration joue un rôle important dans la formation de la vie des peuples, l'amélioration de nos mœurs et la préservation de leur identité, c'est pourquoi nous avons lancé le projet des mosquées en Afrique.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "Qu'est-ce que le projet des sacrifices et nourritures ?",
+        "answer": "L'Afrique passe par des vagues de catastrophes naturelles et des crises économiques majeures qui ont fait que beaucoup de peuples dans les villages isolés traversent de grandes famines. Nous cherchons à travers nos projets (sacrifices, aide alimentaire, distributions, distribution de sacs de maïs et de riz) à fournir de la nourriture à nos frères, les soutenir et les accompagner dans leurs crises.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "Quels sont les projets saisonniers ?",
+        "answer": "À cause de la situation matérielle en Afrique et des crises successives de famines et autres, nous cherchons à apporter la joie à nos frères pendant les saisons bénies à travers le projet de rupture du jeûne, surtout que beaucoup d'entre eux ne trouvent pas de quoi rompre leur jeûne, ainsi que la distribution de repas pendant le mois béni de Ramadan.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "Qu'est-ce que le projet des sacrifices rituels ?",
+        "answer": "Nous profitons de cette occasion bénie pour partager la joie avec nos frères, spécialement dans les villages isolés des forêts africaines.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "Comment puis-je contacter la fondation ?",
+        "answer": "Vous pouvez nous contacter via : téléphone +213 657 71 52 43, +213 770 51 63 62, +213 770 51 50 91, administration +213 671 81 37 81. Adresse : Hay Douzi 03, 2ème étage, lot 308, Bab Ezzouar, Dar El Beida, Algérie. Vous pouvez aussi nous suivre sur Facebook et YouTube.",
+        "category": "contact"
+      },
+      {
+        "question": "Comment puis-je faire un don ?",
+        "answer": "Vous pouvez faire un don via le site web de la fondation ou nous contacter directement aux numéros mentionnés pour connaître les méthodes de don disponibles.",
+        "category": "donation"
       }
     ],
     "en": [
@@ -79,6 +249,91 @@
         "question": "Can I submit multiple videos?",
         "answer": "Yes, you can submit multiple videos, but each will be validated separately.",
         "category": "submission"
+      },
+      {
+        "question": "What is the Algerian Human Charitable Foundation?",
+        "answer": "The Algerian Human Foundation is a non-profit charitable institution specialized in humanitarian and educational work. This name was chosen to show the true value of the Algerian people in extending a helping hand to their needy brothers, and also to draw a good image of Algeria and its people in the minds of other peoples.",
+        "category": "about"
+      },
+      {
+        "question": "What are the foundation's projects in Algeria?",
+        "answer": "Our projects in Algeria include: the needy families project, the medical project, student sponsorship, the memorizer's smile project, with your zakat they smile, the debtors project, and the endowment medical equipment project.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What is the needy families project?",
+        "answer": "We extend a helping hand to many needy families throughout our country by providing a monthly food basket containing all food supplies and necessary needs. Sponsoring a family with a food basket for one month costs 6000 DA, and sponsoring a family with a cancer patient for one month costs 20000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What is the medical project?",
+        "answer": "We give special care to patients and the needy, especially among the needy families we sponsor, seeking to provide them with treatment through sponsoring examinations, complete treatment and surgical operations, as well as through discounts provided by our partner clinics, doctors, and analysis and radiology centers.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What is the student sponsorship project?",
+        "answer": "We firmly believe that the improvement of the individual and society begins with education, so we pay great attention to university students, especially the excellent ones, seeking to sponsor them completely by providing monthly salaries to help them in their study journey and providing support lessons through our volunteer partners from teachers and educational advisors. Sponsoring a university student with training courses costs 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What is the memorizer's smile project?",
+        "answer": "We seek through it to bring joy to Allah's people and especially the people of the Quran by sponsoring them and providing incentives and gifts to encourage them in their journey. Sponsoring Quran teaching for hardworking needy teachers costs 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What is the 'with your zakat they smile' project?",
+        "answer": "We seek to draw smiles by distributing zakat to its rightful recipients such as paying treatment expenses for patients and the needy, paying off debts of needy families, and sponsoring widows and orphans. Sponsoring an orphan costs 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What is the debtors project?",
+        "answer": "Many needy families suffer from paying accumulated debts from unpaid house installments, and other families (widows, divorcees, orphans) suffer from inability to pay house rent. Therefore, our foundation seeks to relieve their distress by paying off these debts.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What is the endowment medical equipment project?",
+        "answer": "We recognize the importance of medical equipment and supplies for needy patients, so we provide them with wide options such as hearing aids, blood pressure monitors, diabetes meters, wheelchairs, electric chairs, medical beds, etc. through our medical equipment supplier partners. Medical sponsorship for purchasing endowment medical and para-medical equipment costs 10000 DA.",
+        "category": "projects_algeria"
+      },
+      {
+        "question": "What are the foundation's projects in Africa?",
+        "answer": "Our projects in Africa include: the water supply project, the mosques project, the sacrifices and feeding project, seasonal projects, and the ritual sacrifices project.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "What is the water supply project?",
+        "answer": "We recognize the importance of water and what our brothers in Africa suffer due to water pollution and drought, so we attach great importance to drilling wells in isolated villages where unpolluted water sources are non-existent, breathing new life into those villages because water is life. According to the African Development Bank report for 2023, one in three Africans suffers from water scarcity, and 411 million people in Africa lack basic drinking water services.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "What is the mosques project?",
+        "answer": "We believe that worship plays an important role in shaping the lives of peoples, refining our morals and preserving their identity, so we launched the mosques project in Africa.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "What is the sacrifices and feeding project?",
+        "answer": "Africa is going through waves of natural disasters and major economic crises that have made many peoples in isolated villages go through great famines. We seek through our projects (sacrifices, food aid, distributions, distribution of corn and rice bags) to provide food for our brothers, support them and stand with them in their crises.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "What are the seasonal projects?",
+        "answer": "Due to the material situation in Africa and successive crises of famines and others, we seek to bring joy to our brothers in the blessed seasons through the iftar project for fasting people, especially since many of them cannot find what to break their fast with, as well as distributing meals during the blessed month of Ramadan.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "What is the ritual sacrifices project?",
+        "answer": "We take advantage of this blessed opportunity to share joy with our brothers, especially in isolated villages in the African jungles.",
+        "category": "projects_africa"
+      },
+      {
+        "question": "How can I contact the foundation?",
+        "answer": "You can contact us via: phone +213 657 71 52 43, +213 770 51 63 62, +213 770 51 50 91, administration +213 671 81 37 81. Address: Hay Douzi 03, 2nd floor, lot 308, Bab Ezzouar, Dar El Beida, Algeria. You can also follow us on Facebook and YouTube.",
+        "category": "contact"
+      },
+      {
+        "question": "How can I donate?",
+        "answer": "You can donate through the foundation's website or contact us directly at the mentioned numbers to know the available donation methods.",
+        "category": "donation"
       }
     ]
   }
